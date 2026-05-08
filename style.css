@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
 }
 :root {
     --primary: color-mix(in oklab,#1a1a1a 50%,transparent);
